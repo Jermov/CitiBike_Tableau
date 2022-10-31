@@ -38,7 +38,7 @@ And this is what it did to my CPU and Memory: <br>
 ![Tableau Hell](Images/nonDiscrimination.PNG)<br>
 
 Just attempting to reopen the file was a challenge: <br>
-![Tableau Hell](Images/tableau_5.PNG)<br>
+![Tableau Hell](Images/tableau_nightmare_5_Reopening.PNG)<br>
 
 Once it was loaded, the real 'transform' steps happened - even simple steps like creating a SUM was painful!<br>
 ![Tableau Hell](Images/tableau_nightmare_4.PNG)<br>
