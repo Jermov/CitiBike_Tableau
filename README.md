@@ -69,3 +69,7 @@ Created to answer which bike types get the most mileage as well as the monthly d
 
 ### Story Board Overview
 Because there were so many interactive dashboards, the concern was that the insights may be overlooked. A consolidated story board that explains the insights gathered at each dashboard helps the audience understand what the data is saying.
+ 
+ 
+## Conclusion
+Tableau would be a wonderful tool, for a person that is paying for the full software suite. I am not left with warm and/or fuzzy feelings about using Tableau Public with datasets this large. On a positive note: I have successfully displayed my skills leveraging the Tableau visualization tool.
