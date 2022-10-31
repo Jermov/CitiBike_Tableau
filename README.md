@@ -45,10 +45,13 @@ Once it was loaded, the real 'transform' steps happened - even simple steps like
 
 ## Other Items of Note
 The Questions being asked did not match the data available for pull. Some questions were not answerable. 
+ <ul>
 <li>Questions of Rider Age</li>
+<li>Questions of Zip Code have been altered to use provided Latitude and Longitude</li>
 <li>Questions of Bike Id</li>
 <li>Questions of Mainenance Cycles</li>
-Only much older data (2017 and earlier) houses these fields. 
+  </ul>
+Only much older data (2017 and earlier) houses these fields. To provide a dashboard with such old data- no timely insights would be derived. Used the most recent data. Rather have points deducted for bootcamp providing requirements dating so far back than to provide such a stale set of dashboards.
 
 ## Dashboard Descriptions
 ### City Map Dashboard
