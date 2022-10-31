@@ -53,16 +53,16 @@ Only much older data (2017 and earlier) houses these fields.
 ## Dashboard Descriptions
 ### City Map Dashboard
 Created to answer questions about percentage of rides, Day of Week rental counts, and geogrphic location questions with interactive filters for start and end station as well as season.<br>
-![Tableau Hell](Images/CitiMap.PNG)<br>
+![Tableau](Images/CitiMap.PNG)<br>
 ### Member Bike Dashboard
 Created to answer questions about membership versus casual riders, the types of bikes chosen for each rider type, and the average duration each rider type spent on the bike. Includes an interactive set of filters for start and end station as well as season. <br>
-![Tableau Hell](Images/MemberBike.PNG)<br>
+![Tableau](Images/MemberBike.PNG)<br>
 ### Station Details Dashboard
 Created to answer the top starting and ending stations as well as the least used starting and ending stations. Interactive filter to choose a season to explore data more closely. <br>
-![Tableau Hell](Images/Station.PNG)<br>
+![Tableau](Images/Station.PNG)<br>
 ### Distance Dashboard
 Created to answer which bike types get the most mileage as well as the monthly distance travelled in general by all the bikes. Includes an interactive set of filters for start and end station as well as season.<br>
-![Tableau Hell](Images/Distance.PNG)<br>
+![Tableau](Images/Distance.PNG)<br>
 
 ### Story Board Overview
 Because there were so many interactive dashboards, the concern was that the insights may be overlooked. A consolidated story board that explains the insights gathered at each dashboard helps the audience understand what the data is saying.
