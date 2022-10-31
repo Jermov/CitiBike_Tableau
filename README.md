@@ -28,7 +28,8 @@ Or download the tableau packaged workbook within Github!
 Originally decided upon three months of data to give a quarterly look at the trends. This was slightly over 500,000 rows of data, but the questions indicate opposite seasons. As a result, decided to pull 12 months of data- October 2021 to September 2022. 
 
 ### Transform
-Originally attempted to join the 12 large csv files in Tableau Public. That was not a stellar idea. After a day of attempting to do all the ETL via Tableau without the option for Tableau Prep, or Tableau Desktop without paying for a license, an executive decision was made to use Jupyter notebooks to merge all the csv files into one file. This was only a slightly better idea.
+Originally attempted to join the 12 large csv files in Tableau Public. That was not a stellar idea. After a day of attempting to do all the ETL via Tableau without the option for Tableau Prep, or Tableau Desktop without paying for a license, an executive decision was made to use Jupyter notebooks to merge all the csv files into one file. This was only a slightly better idea.<br>
+ ![Average](Images/slightly.PNG)
 
 ### Load
 After getting the data merged using jupyter notebooks, the next task was to load it into Tableau Public. The total time to load the data initially was slightly over 16 minutes: <br>
